@@ -85,7 +85,7 @@ pip install --upgrade google-generativeai
 ---
 
  Contributors 👨‍💻
-Developed by [Your Name]
+Developed by Dhrumil Trivedi
 
 Feel free to contribute by improving the chatbot or adding new features! 🎯
 
